@@ -39,8 +39,6 @@ Perform exploratory data analysis (EDA) on HNG Limited Marketing Campaign datase
 
 ● Facebook Channel brought in the lowest ROI of 164,712.81
 
-### Key observations
-
 ● Los Angeles has the highest Click through rate(CTR) of 10.000601
 
 ● Miami has the lowest CTR of 9.964758
@@ -60,6 +58,12 @@ Perform exploratory data analysis (EDA) on HNG Limited Marketing Campaign datase
 ● Google ads has the highest Cost per click with value 108,039,487.6 USD
 
 ● Facebook has the lowest cpc with value 105,448,579.3 USD
+
+![Screenshot 2025-03-22 040506](https://github.com/user-attachments/assets/4dcf4718-2fea-49a1-849a-04b749ae8080)
+![Screenshot 2025-03-22 040443](https://github.com/user-attachments/assets/6603ebe0-8a56-4d77-a05c-8c5263ac9b18)
+![Screenshot 2025-03-22 040522](https://github.com/user-attachments/assets/1548a002-7d4c-45c4-a87a-5ee7e0ead1a9)
+![Screenshot 2025-03-22 040424](https://github.com/user-attachments/assets/c71d3fba-353e-42ff-93fd-b1ec423ab908)
+
 
 ### Recommendations
 
