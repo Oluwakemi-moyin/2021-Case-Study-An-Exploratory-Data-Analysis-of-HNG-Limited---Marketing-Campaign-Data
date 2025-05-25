@@ -12,6 +12,7 @@ Tools used: Python.
 
 - Dataset size: The dataset has a total count of 3,000,009 and 15 Columns with count of 200,006 inclusive of Headers for each Column.
 
+- Data source: Marketing Campaign Data
 
 ### Analysis Objective
 
