@@ -1,6 +1,4 @@
-# 2021-Case-Study-An-Exploratory-Data-Analysis-of-HNG-Limited---Marketing-Campaign-Data
-
-Tools used: Python.
+# 2021 Case Study- An Exploratory Data Analysis-of HNG Limited-Marketing Campaign Data
 
 ### Introduction
 
@@ -29,6 +27,10 @@ Perform exploratory data analysis (EDA) on HNG Limited Marketing Campaign datase
 - Conversion Rate
 
 - Campaign performance across diff channels
+
+### Tools used
+- Python
+- Excel
 
 ### Insights
 
